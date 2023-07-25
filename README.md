@@ -1,8 +1,8 @@
 # Angular-beginner
 
-To start first you have to install node js and also have anycode editor of your choice i'm using visual studio code
+To start first you have to install node js and also you need to have any code editor of your choice i'm using visual studio code
 
-After installing it type node --version to sure of the version and also check whether it is installed
+After installing it type node --version to make sure of the version and also check whether it is installed
 
 Then type npm init
 
